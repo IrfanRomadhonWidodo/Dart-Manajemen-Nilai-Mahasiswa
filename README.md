@@ -3,7 +3,7 @@
 ## Identitas
 Nama  : Irfan Romadhon Widodo  
 NIM   : H1D023023  
-Shift : Shift D (Lama), Shift F (Baru)
+Shift : Shift D (Lama), Shift F (Baru)  
 
 ---
 
